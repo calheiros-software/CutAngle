@@ -4,7 +4,7 @@
 
 Enter the parts you need, the stock you have and the lengths your supplier sells. CutAngle plans the cuts, uses your stock and offcuts first, and tells you what to buy. It also gives the weight and the painted area of the useful parts, and a quote with profit margin, exported to Excel.
 
-▶ Video tutorial (English, subtitles in PT, ES, FR, DE): [LINK DO VIDEO]
+▶ Video tutorial (English, subtitles in PT, ES, FR, DE): https://www.youtube.com/watch?v=eerWNnWLja8
 
 ## Download
 Go to **[Releases](../../releases/latest)** and download `CutAngleV1.2.0.exe`. It is portable: run it directly, nothing to install.
