@@ -23,7 +23,7 @@ Go to **[Releases](../../releases/latest)** and download `CutAngleV1.2.0.exe`. I
 - Languages: English, Português, Español, Français, Deutsch
 
 ## Licence
-Free 30-day trial. After that, a donation of 10 € or more is recommended: [LINK DO DONATIVO]. Each computer has its own activation code.
+Free 30-day trial. After that, a donation of 10 € or more is recommended: https://paypal.me/ricardocalheiros. Each computer has its own activation code.
 
 ---
 
